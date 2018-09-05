@@ -1,6 +1,6 @@
-shout(String){
+shout(string){
   
-  String.toUpperCase()
+  string.toUpperCase()
   
-  return String
+  return string
 }
