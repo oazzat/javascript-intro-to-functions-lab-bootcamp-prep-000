@@ -1,6 +1,5 @@
 shout(string){
   
-  string.toUpperCase()
+  return string.toUpperCase()
   
-  return string
 }
